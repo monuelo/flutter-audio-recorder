@@ -36,25 +36,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-  - res/icons/ic_play.png
-  - res/icons/2.0x/ic_play.png
-  - res/icons/3.0x/ic_play.png
-  - res/icons/ic_stop.png
-  - res/icons/2.0x/ic_stop.png
-  - res/icons/3.0x/ic_stop.png
-  - res/icons/ic_pause.png
-  - res/icons/2.0x/ic_pause.png
-  - res/icons/3.0x/ic_pause.png
-  - res/icons/ic_mic.png
-  - res/icons/2.0x/ic_mic.png
-  - res/icons/3.0x/ic_mic.png
-  - res/icons/ic_volume_down.png
-  - res/icons/2.0x/ic_volume_down.png
-  - res/icons/3.0x/ic_volume_down.png
-  - res/icons/ic_volume_up.png
-  - res/icons/2.0x/ic_volume_up.png
-  - res/icons/3.0x/ic_volume_up.png
+  # assets:
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
